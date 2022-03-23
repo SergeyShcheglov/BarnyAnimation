@@ -1,7 +1,7 @@
 # BarnyAnimation
 
 <div>
-    <img src = "https://github.com/SergeyShcheglov/BarnyAnimation/blob/main/README-assets/BarnyAnimation.gif" width = "187">
+    <img src = "https://github.com/SergeyShcheglov/BarnyAnimation/blob/barny/README-assets/BarnyAnimation.gif" width = "187">
 </div>
 
 <h3>
